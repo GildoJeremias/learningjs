@@ -11,7 +11,6 @@ console.log(js)
 
 let jonas_Matilda = "JM";
 let PI = 3.1415;
-
 console.log(PI);
 console.log(jonas_Matilda);
 
@@ -19,3 +18,4 @@ let myFirstJob = "Vendedor de oléo de motor";
 let mySecondJob = "Vídeo Produtor";
 console.log("Meu primeiro Emprego: ",myFirstJob);
 console.log("Meu segundo emprego",mySecondJob);
+
